@@ -1,0 +1,53 @@
+,Sector,IncorporationDate,count,cum,Color,str
+0,Administrative and support service activities,2008,208,208,#03254c, 
+1,Administrative and support service activities,2009,254,462,#03254c,▲122%
+2,Administrative and support service activities,2010,327,789,#03254c,▲70%
+3,Administrative and support service activities,2011,329,1118,#03254c,▲41%
+4,Administrative and support service activities,2012,364,1482,#03254c,▲32%
+5,Administrative and support service activities,2013,463,1945,#03254c,▲31%
+6,Administrative and support service activities,2014,591,2536,#03254c,▲30%
+7,Administrative and support service activities,2015,562,3098,#03254c,▲22%
+8,Administrative and support service activities,2016,675,3773,#03254c,▲21%
+9,Administrative and support service activities,2017,921,4694,#03254c,▲24%
+10,Administrative and support service activities,2018,913,5607,#03254c,▲19%
+11,Administrative and support service activities,2019,1473,7080,#03254c,▲26%
+12,Administrative and support service activities,2020,1785,8865,#03254c,▲25%
+13,Information and communication,2008,154,154,#187bcd, 
+14,Information and communication,2009,175,329,#187bcd,▲113%
+15,Information and communication,2010,246,575,#187bcd,▲74%
+16,Information and communication,2011,318,893,#187bcd,▲55%
+17,Information and communication,2012,408,1301,#187bcd,▲45%
+18,Information and communication,2013,516,1817,#187bcd,▲39%
+19,Information and communication,2014,621,2438,#187bcd,▲34%
+20,Information and communication,2015,734,3172,#187bcd,▲30%
+21,Information and communication,2016,918,4090,#187bcd,▲28%
+22,Information and communication,2017,1110,5200,#187bcd,▲27%
+23,Information and communication,2018,1579,6779,#187bcd,▲30%
+24,Information and communication,2019,2554,9333,#187bcd,▲37%
+25,Information and communication,2020,2830,12163,#187bcd,▲30%
+26,"Professional, scientific and technical activities",2008,192,192,#1167b1, 
+27,"Professional, scientific and technical activities",2009,194,386,#1167b1,▲101%
+28,"Professional, scientific and technical activities",2010,320,706,#1167b1,▲82%
+29,"Professional, scientific and technical activities",2011,344,1050,#1167b1,▲48%
+30,"Professional, scientific and technical activities",2012,408,1458,#1167b1,▲38%
+31,"Professional, scientific and technical activities",2013,493,1951,#1167b1,▲33%
+32,"Professional, scientific and technical activities",2014,549,2500,#1167b1,▲28%
+33,"Professional, scientific and technical activities",2015,620,3120,#1167b1,▲24%
+34,"Professional, scientific and technical activities",2016,821,3941,#1167b1,▲26%
+35,"Professional, scientific and technical activities",2017,1011,4952,#1167b1,▲25%
+36,"Professional, scientific and technical activities",2018,1463,6415,#1167b1,▲29%
+37,"Professional, scientific and technical activities",2019,2040,8455,#1167b1,▲31%
+38,"Professional, scientific and technical activities",2020,2564,11019,#1167b1,▲30%
+39,Wholesale and retail trade,2008,56,56,#2a9df4, 
+40,Wholesale and retail trade,2009,78,134,#2a9df4,▲139%
+41,Wholesale and retail trade,2010,85,219,#2a9df4,▲63%
+42,Wholesale and retail trade,2011,120,339,#2a9df4,▲54%
+43,Wholesale and retail trade,2012,155,494,#2a9df4,▲45%
+44,Wholesale and retail trade,2013,157,651,#2a9df4,▲31%
+45,Wholesale and retail trade,2014,214,865,#2a9df4,▲32%
+46,Wholesale and retail trade,2015,268,1133,#2a9df4,▲30%
+47,Wholesale and retail trade,2016,429,1562,#2a9df4,▲37%
+48,Wholesale and retail trade,2017,726,2288,#2a9df4,▲46%
+49,Wholesale and retail trade,2018,1136,3424,#2a9df4,▲49%
+50,Wholesale and retail trade,2019,2519,5943,#2a9df4,▲73%
+51,Wholesale and retail trade,2020,4554,10497,#2a9df4,▲76%
