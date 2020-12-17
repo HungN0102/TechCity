@@ -1,0 +1,9 @@
+,gender,Sector,count,bar,Sector_y,percentage,str
+0,female,Administrative and support service activities,2171,-2171,8593,25.26,25.26% female
+1,male,Administrative and support service activities,6422,6422,8593,74.74,74.74% male
+2,female,Information and communication,2204,-2204,12724,17.32,17.32% female
+3,male,Information and communication,10520,10520,12724,82.68,82.68% male
+4,female,"Professional, scientific and technical activities",3198,-3198,11734,27.25,27.25% female
+5,male,"Professional, scientific and technical activities",8536,8536,11734,72.75,72.75% male
+6,female,Wholesale and retail trade,2817,-2817,10204,27.61,27.61% female
+7,male,Wholesale and retail trade,7387,7387,10204,72.39,72.39% male
